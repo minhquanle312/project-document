@@ -74,7 +74,7 @@ You can input the final results or start a real-time match (if you are a referee
 
 <!-- ![Match center when have current match](https://github.com/minhquanle312/project-document/blob/main/tournament/assets/videos/demo-start-a-match.mp4) -->
 
-[![Watch the video]](assets/videos/demo-start-a-match.mp4)
+[![Video Title](https://img.youtube.com/vi/tpVWyVcIOF0/0.jpg)](https://www.youtube.com/watch?v=tpVWyVcIOF0)
 
 > ### Now start another match
 
