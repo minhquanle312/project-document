@@ -84,6 +84,8 @@ You can input the final results or start a real-time match (if you are a referee
 
 > ### Admins can embed the ID of a YouTube video, allowing guests to watch the video and follow the scores in real-time
 
+### Click to watch demo
+
 [![Video Title](https://img.youtube.com/vi/s_jWfTZJ_qI/0.jpg)](https://www.youtube.com/watch?v=s_jWfTZJ_qI)
 
 <!-- <video controls src="assets/videos/realtime-tracking.mp4" title="Title"></video> -->
