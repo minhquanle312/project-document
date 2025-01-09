@@ -70,7 +70,11 @@ You can input the final results or start a real-time match (if you are a referee
 
 ### Video demo
 
-<video controls src="assets/videos/demo-start-a-match.mp4" title="Title"></video>
+<!-- <video controls src="assets/videos/demo-start-a-match.mp4" title="Title"></video> -->
+
+<!-- ![Match center when have current match](https://github.com/minhquanle312/project-document/blob/main/tournament/assets/videos/demo-start-a-match.mp4) -->
+
+[![Watch the video]](assets/videos/demo-start-a-match.mp4)
 
 > ### Now start another match
 
