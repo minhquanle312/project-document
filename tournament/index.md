@@ -70,9 +70,7 @@ You can input the final results or start a real-time match (if you are a referee
 
 ### Video demo
 
-<!-- <video controls src="assets/videos/demo-start-a-match.mp4" title="Title"></video> -->
-
-<!-- ![Match center when have current match](https://github.com/minhquanle312/project-document/blob/main/tournament/assets/videos/demo-start-a-match.mp4) -->
+<!-- <video controls src="https://www.youtube.com/watch?v=tpVWyVcIOF0" title="Title"></video> -->
 
 [![Video Title](https://img.youtube.com/vi/tpVWyVcIOF0/0.jpg)](https://www.youtube.com/watch?v=tpVWyVcIOF0)
 
@@ -85,5 +83,7 @@ You can input the final results or start a real-time match (if you are a referee
 > ### Click on Current Match at the top of the page to view the scores of these matches in real-time
 
 > ### Admins can embed the ID of a YouTube video, allowing guests to watch the video and follow the scores in real-time
+
+[![Video Title](https://img.youtube.com/vi/s_jWfTZJ_qI/0.jpg)](https://www.youtube.com/watch?v=s_jWfTZJ_qI)
 
 <!-- <video controls src="assets/videos/realtime-tracking.mp4" title="Title"></video> -->
